@@ -2,7 +2,7 @@
 
 An interactive executive dashboard built using **Tableau Desktop** and deployed as a live web application via **GitHub Pages**. This project visualizes retail performance metrics across sales, profits, and customer segments to uncover operational trends.
 
-### 🚀 [Launch the Live Interactive Dashboard](https://salmakhaled1897-max.github.io/Superstore-Dashboard/)
+### 🚀 [Launch the Live Interactive Dashboard](https://SallmaKhaled.github.io/Superstore-Dashboard/)
 
 ---
 
@@ -10,7 +10,7 @@ An interactive executive dashboard built using **Tableau Desktop** and deployed 
 
 Click on the preview image below to open the fully interactive dashboard. In the live version, you can filter data dynamically by **Region**, **Segment**, and **Category**, select specific timelines, and explore deep-dive metrics via tooltips:
 
-[![Click to Open Interactive Dashboard](https://raw.githubusercontent.com/salmakhaled1897-max/Superstore-Dashboard/main/screenshot.png)](https://salmakhaled1897-max.github.io/Superstore-Dashboard/)
+[![Click to Open Interactive Dashboard](https://raw.githubusercontent.com/SallmaKhaled/Superstore-Dashboard/main/screenshot.png)](https://SallmaKhaled.github.io/Superstore-Dashboard/)
 
 *Note: The image above is a static snapshot. Click it to slice, dice, and query the data directly.*
 
