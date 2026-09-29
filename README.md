@@ -32,4 +32,4 @@ The dashboard tracks major retail Key Performance Indicators (KPIs) over a multi
 * **Temporal Slicers:** Adjust global quarter/year boundaries effortlessly using the interactive timeline slider.
 
 ## 💾 Dataset
-This project utilizes the localized **Sample - Superstore** dataset. It simulates operational transaction tracking for an e-commerce retail supplier to model real-world business intelligence reporting scenarios.
+This project utilizes the localized **Superstore** dataset. It simulates operational transaction tracking for an e-commerce retail supplier to model real-world business intelligence reporting scenarios.
